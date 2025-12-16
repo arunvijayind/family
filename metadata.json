@@ -1,0 +1,5 @@
+{
+  "name": "My family",
+  "description": "An application to map and visualize family relationships, and to find connection paths between individuals.",
+  "requestFramePermissions": []
+}
